@@ -195,7 +195,7 @@ nav{
 .news img{
     border-radius: 10px 10px 0 0;
 }
-.news h3{
+.news h2{
     font-size: 1.20em;
     font-weight: 500;
     margin: 10px 0;
@@ -336,7 +336,7 @@ footer{
     .latest-articles{
         padding: 60px 100px;
     }
-    .latest-articles h3:hover{
+    .news h2:hover{
         color: var(--lime-green);
         cursor: pointer;
     }
