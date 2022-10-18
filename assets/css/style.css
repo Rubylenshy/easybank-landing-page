@@ -186,7 +186,7 @@ nav{
     border-radius: 10px;
 }
 .news-content{
-    padding: 25px 25px 25px 0;
+    padding: 25px 25px 25px 0px;
 }
 .news-content small{
     font-size: 0.75em;
@@ -267,6 +267,9 @@ footer{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 25px 15px;
+    }
+    .news-content{
+        padding: 25px;
     }
     .news{
         margin: 0;
