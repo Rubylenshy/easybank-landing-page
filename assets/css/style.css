@@ -186,7 +186,7 @@ nav{
     border-radius: 10px;
 }
 .news-content{
-    padding: 25px;
+    padding: 25px 25px 25px 0;
 }
 .news-content small{
     font-size: 0.75em;
